@@ -16,7 +16,9 @@ I learn by **building, breaking, and investigating**.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,docker,python,cpp,lua,js,html,css,git,vscode)](https://skillicons.dev)
 
-## 🌍 Connect
+## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/codenaut_)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1344388275267309681)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Codenaut)
+
