@@ -14,7 +14,7 @@ Currently focused on learning C++ and understanding how software interacts with 
 
 ## 🛠️ Tools & Technologies
 
-![Technologies](https://skillicons.dev/icons?i=cpp,python,linux,windows,git,github,vscode)
+![Technologies](https://skillicons.dev/icons?i=cpp,linux,windows,git,github,vscode)
 
 ## 🌐 Find Me Online
 
