@@ -2,19 +2,22 @@
 
 > **"One bug away from reentry."**
 
-I'm a developer from Poland exploring **low-level programming, computer systems, and embedded development**.
+I'm a developer from Poland exploring **C++, computer systems, and computer vision**.
 
-Currently focused on learning C++ and understanding how software interacts with hardware — one experiment at a time.
+Currently focused on learning C++ through hands-on projects, experimenting with OpenCV, and understanding how software processes data and interacts with the underlying system.
+
+I believe in learning by building, experimenting, and figuring things out one step at a time.
 
 ## 🔧 Current Interests
 
-- **C++** - systems programming and understanding what's happening under the hood
-- **Embedded Systems** - microcontrollers, digital logic, and electronics
-- **C & Rust** - languages I'd like to explore next
+- **C++** - programming fundamentals, algorithms, and understanding what's happening under the hood
+- **Computer Vision** - image processing, OpenCV, and exploring the foundations of AI
+- **Systems Programming** - memory, operating systems, and the relationship between software and hardware
+- **Embedded Systems & Electronics** - microcontrollers, digital logic, and hardware-level experimentation
 
 ## 🛠️ Tools & Technologies
 
-![Technologies](https://skillicons.dev/icons?i=cpp,linux,windows,git,github,vscode)
+![Technologies](https://skillicons.dev/icons?i=cpp,opencv,linux,windows,git,github,vscode)
 
 ## 🌐 Find Me Online
 
